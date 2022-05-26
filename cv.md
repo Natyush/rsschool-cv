@@ -35,3 +35,9 @@ function multiply(a,b) {
 let result = multiply(2,3);
 console.log(result);
 ```
+## Expierence
+I don't have work expierence in programming.
+
+## Languages
+- Russian, Belarusian
+- English - A1
