@@ -25,3 +25,13 @@ I want to learn how to make websites and find a new job.
 - Git, GitHub
 - VS Code, Sublime Text
 - Figma, Marsy
+
+## Code example
+
+```
+function multiply(a,b) {
+    return a * b;
+}
+let result = multiply(2,3);
+console.log(result);
+```
