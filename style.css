@@ -1,4 +1,21 @@
-/* Reset */
+@font-face {
+  font-family: "Kaushan Script";
+  src: url("../fonts/Kaushan_Script/KaushanScript-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato/Lato-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato/Lato-Bold.ttf");
+  font-weight: 700;
+}
+
+
 *,
 *::before,
 *::after {
